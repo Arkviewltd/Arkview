@@ -1,0 +1,24 @@
+/* Import Nourd Font - Replace URL with actual import link if available */
+@import url('https://path-to-nourd-font.css');
+
+body {
+    font-family: 'Nourd', sans-serif;
+    background-color: #f3efe3;
+    color: #434c4c;
+}
+
+header {
+    background-color: #434c4c;
+    padding: 1em;
+}
+
+header nav ul li a {
+    color: #f3efe3;
+}
+
+footer {
+    background-color: #434c4c;
+    color: #f3efe3;
+}
+
+/* Additional styling for the gallery to be added here */
